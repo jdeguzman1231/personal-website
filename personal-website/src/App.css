@@ -1,91 +1,52 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
 .introduction{
   align-items: center;
   display: flex;
-  margin-left: 200px;
-  margin-right: 200px;
-  margin-top: 50px;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 3%;
 }
 
 .header {
   align-items: center;
   display: flex;
-  margin-left: 100px;
-  margin-top: 50px;
+  margin-left: 10%;
+  margin-top: 3%;
 }
 
 .experienceOne {
   align-items: center;
   display: flex;
-  margin-left: 100px;
-  margin-top: 25px;
+  margin-left: 10%;   
+  margin-top: 3%;
 }
 
 .listOne {
   align-items: center;
-  margin-right: 200px;
-  margin-left: 150px;
+  margin-right: 15%;
+  margin-left: 15%;
 }
 
 .project {
   align-items: center;
   display: flex;
-  margin-left: 100px;
-  margin-top: 25px;
+  margin-left: 10%;
+  /* margin-top: 3%; */
 }
 
 .projectPhoto {
-  height: 400px;
-  width: 760px;
-  margin-right: 50px;
+  height: 50%;
+  width: 57%;
+  margin-right: 5%;
 }
 
 .projectDesc {
-  margin-right: 50px;
+  margin-right: 5%;
 }
 
 .mePhoto {
-  height: 500px;
-  width: 375px;
-  margin-right: 100px;
+  height: 50%;
+  width: 30%;
+  margin-right: 10%;
 }
 
 .aboutMeInfo {
@@ -94,7 +55,7 @@
 }
 
 .aboutMeText {
-  margin-left: 200px;
-  margin-right: 200px;
+  margin-left: 15%;
+  margin-right: 15%;
 }
 
