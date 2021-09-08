@@ -1,6 +1,6 @@
 import brainiac from './images/brainiac.png'
 import me from './images/me.JPG'
-import {ListGroup, Button, Navbar} from 'react-bootstrap'
+import {ListGroup} from 'react-bootstrap'
 function HomePage() {
     return (
         <div>
